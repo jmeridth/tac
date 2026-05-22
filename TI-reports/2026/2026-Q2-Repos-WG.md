@@ -2,8 +2,7 @@
 
 ## Overview
 
-<mark>_Required: Sum up the status, health of your TI, and the community in a few sentences. Consider this the TL;DR for the rest of the report. How is your community doing health-wise (e.g., is the number of active contributors increasing or decreasing) ? What are the latest news?
-</mark>
+Package repositories are under attack. There are several ongoing campaigns that distribute replicating malware via the major package repositories. Previous security capabilities organized by this working group have been helpful, but additional security capabilities are needed to protect open source ecosystems.
 
 ## Securing Software Repositories Working Group
 
