@@ -3,7 +3,7 @@
 ## Overview
 
 Alpha-Omega is running strong, with an increased emphasis on helping open source projects and ecosystems defend themselves against
-AI-related threats. We recently received $2.5 million in renewed membership from Microsoft and brought on additional help (Kevin King, Francis Perron, Andrew Nesbitt, Mirko Swilus) to increase speed of execution.
+AI-related threats. In addition to $12.5 million in AI-related funding announced in March and renewed funding from Google and AWS earlier in 2026, we recently received $2.5 million in renewed membership from Microsoft. We brought on additional help (Kevin King, Francis Perron, Andrew Nesbitt, Mirko Swilus) to increase speed of execution.
 
 ### Securing Open Source Against AI Threats
 
@@ -26,6 +26,8 @@ We have two updates:
 
 We continue to publish blogs multiple times as week (usually written by our grant recipients), available at [alpha-omega.dev/resources/blog/](https://alpha-omega.dev/resources/blog/) and started publishing case studies, available at [alpha-omega.dev/case-studies/](https://alpha-omega.dev/case-studies/).
 
+Andrew Nesbitt continues to [blog regularly](https://nesbitt.io/posts/) on topics we care deeply about.
+
 We've also appeared in multiple articles around Glasswing due to our work in applying advanced AI models to detect vulnerabilities in critical open source projects.
 
 ### Up Next
@@ -35,6 +37,8 @@ Alpha-Omega continues to have regular meetings, both public and with key partner
 * **Public Meeting**: Our next public meeting is next week (July 1st). All are welcome to attend.
 * **Sustaining Package Registries Working Group**: Meets weekly.
 * **Open Source Corps of Security Engineers**: Meets bi-weekly.
+
+We continue to speak (and support our grant recipients speaking) at major conferences around the world.
 
 ### Questions/Issues for the TAC
 
